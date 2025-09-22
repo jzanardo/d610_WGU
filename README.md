@@ -5,3 +5,5 @@ This repository contains 5 synthetic data files (.csv) and the Python code that 
 3. loans.csv : 20,000 customer loan positions
 4. transactions.csv : 300,000 customer transactions
 5. survey.csv : 70,000 customer answers
+
+6. fake_data_generation.py : Python code that generates the synthetic data files following recent patterns/rules (distributions) of real-word banks
